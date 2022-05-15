@@ -10,3 +10,7 @@
 
 ## Table of Content
 [TOC]
+
+## References
+
+1. Peña-Arancibia, J. L., McVicar, T. R., Kong, D., Guerschman, J. P., Van Niel, T. G., Vleeshower, J., & Li, L. T. (2021). On the interchangeability of Landsat and MODIS data in the CMRSET actual evapotranspiration model–Comment on “Monitoring irrigation using Landsat observations and climate data over regional scales in the Murray-Darling Basin” by David Bretreger, In-Young Yeo, Greg Hancock and Garry Willgoose. **_Journal of Hydrology_**, 603, 127044.
